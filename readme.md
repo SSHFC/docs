@@ -9,7 +9,7 @@
 
 ----
 
-Building the pdf files reuire that weasy-print be installed. 
+Building the pdf files require that weasy-print be installed. 
 This will be installed as part of the pip command to install the theme.
 However if by some chance(especially on windows), this does not work or you meet this error:
  #### OSError: cannot load library 'gobject-2.0-0': error 0x7e 
@@ -22,4 +22,13 @@ However if by some chance(especially on windows), this does not work or you meet
 In the `mkdocs.yml` file.  **pdf-exports** has been commented out to speed up builds when you run `mkdocs serve`.
 Keep in mind, if you wan to build the static file, you un-comment that line and run `mkdocs build`.
 
+----
+
+Added `mike` in the tooling for versioning. 
+
+- Install mike with pip `` pip install mike``
+This will stave off any error. 
+- The admin will build initiate a build.
+``mike deploy latest``
+``mike set-default --push latest ``
 
