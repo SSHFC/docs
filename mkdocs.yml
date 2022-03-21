@@ -1,0 +1,30 @@
+site_name: Social Security and Housing Finance Corporation (SSHFC)
+theme:
+    name: material
+    logo: img/sshfc.png
+    custom_dir: overrides
+nav:
+  - Home: index.md
+  - Administrative User Manual: admin.md
+  - Attendance and Access Control Management System: aacms.md
+  - Claims Monitoring System: cms.md
+  - Customer Relations Management System: crms.md
+  - Electronic Records Management System: erms.md
+  - Financial Management System: fms.md
+  - Human Resource Management System: hrms.md
+  - Mortgage Management System: mms.md
+  - Social Security Management System: ssms.md
+
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+plugins:
+    - search
+    - mike
+    # - pdf-export    # I have commented out pdf builds to make building quicker
+
+extra:
+  version:
+    provider: mike
+    default: main
