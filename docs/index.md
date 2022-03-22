@@ -40,16 +40,16 @@ The System is designed with minimal expectations from a user’s browser. A user
 
 ## Navigating The System’s Web User Interface
 
-Users must have been provided with email addresses and are required to create easy to remember passwords using a combination of letters, numbers and symbols to enable them login to their accounts.
+Users must have been provided with email addresses and are required to create easy to remember passwords using a combination of letters, numbers and symbols to enable them to log in to their accounts.
 
-Login to your account by filling the sign in form with your email address and password and clicking on the SIGN IN button as shown in Figure 3.
+Login to your account by filling out the sign-in form with your email address and password and clicking on the SIGN IN button as shown in Figure 3.
 
 ![Figure 3](img/login.png){ align=center }
 
  
 ## The Dashboard
 
-After a successful login, theuser is presented with a dashboard.
+After a successful login, the user is presented with a dashboard.
 This dashboard displays all modules installed for the user account in question. See the image below.
 
 ![Dashboard](img/dashboard-main.png){ align=center }
