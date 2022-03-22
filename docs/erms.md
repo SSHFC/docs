@@ -10,6 +10,49 @@ Upon a successful sign in, a dashboard is displayed as shown in Figure 4.
 Highlighted in <span style="color:red">red</span>, is the ERMS module.
 ![Figure 4](img/ersm-dashboard.png){ align=center }
 
+## ERMS Setup Module
+
+The Setup module, seen as **Setup** in the Tab, allows one to create records that will serve as input for completing or submitting a document.
+See the highlighted section:
+![ERMS Setup](img/erms_setup.png){ align=center }
+
+Click the Setup option to reveal a drop down, this list contains
+- Add Record 
+- View Record Type
+- View Record Link Types
+
+
+### Adding a Record 
+
+Click the **Add New Record Type** tab button.
+This presents you with a page that requests for **Code** and **Description**
+Click on **Add Record Type** to submit entry.
+
+![Add Record Erms](img/erms_add_record.png){ align=center }
+
+### View Keyword List
+
+To view Keyword Lists , click on the **View keyword List** button.
+Delete, Update, Show options available for each record.
+
+![View Record](img/keyword_list.jpg){ align=center }
+
+
+### View Record Link List
+
+To view Record Link Lists , click on the **View Record Link List** button.
+Delete, Update, Show options available for each record.
+
+![View Record](img/record_link_list.jpg){ align=center }
+
+
+### View Record Type List
+
+TO view Record Type List, click on the ** View Record Type List** button.
+Delete, Update, Show options available for each record.
+
+
+![View Record Link ](img/record_type_list.jpg){ align=center }
 
 ## Document Upload
 
@@ -54,7 +97,7 @@ Below is an image that shows a search using the "Author" and the results display
 
 
 
-## Docuement Access History
+## Document Access History
 
 The ERMS module also allows you to track the access history of documents. Who accessed the document, when it was accessed.
 Below is an image that demostrates the use of the Document Access History Tab.
