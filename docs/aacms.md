@@ -5,7 +5,7 @@ The Attendance and Access Control Management System (AACMS) is a system designed
 
 ## Who Benefits From The Attendance And Access Control Management System
 
-- Human Resource Management Personnels
+- Human Resource Management Personnel
 - Information Technology Officials
 - Members of Management
 
@@ -30,7 +30,7 @@ Highlighted in <span style="color:red">red</span>, is the AACMS module.
 In this instance, we will be looking at the AACMS module. This module helps generate various reports as outputs based on member/staff attendance. Clicking <span style="color:red">AACMS</span> in the dashboard or on the sidebar opens a portal that allows users generate various reports as shown in Figure 5.
 ![Figure 5](img/aacms.png){ align=center }
 
-- Button One (1): This button generates a detailed attendace report shown in  Figure 6.
+- Button One (1): This button generates a detailed attendance report shown in  Figure 6.
 - Button Two (2): This button generates a summary attendance report shown in Figure 7.
 
 ![Figure 6](img/detailed.png){ align=left }
@@ -38,7 +38,7 @@ In this instance, we will be looking at the AACMS module. This module helps gene
 
 ## Filtering Detailed Reports By Date
 
-Detailed report can be filtered by dates. The filter generates information within a date range.
+The detailed report can be filtered by dates. The filter generates information within a date range.
 See Figure 8.
 ![Figure 8](img/date-detailed.png){ align=center }
 
@@ -55,11 +55,11 @@ All reports come with certain functionalities, they are:
 
 - Ability to export into pdf.*
 - Ability to export into excel.*
-- Ability to search by any of the fields in a mutli-field search box. **
+- Ability to search by any of the fields in a multi-field search box. **
 - Ability to perform basic sort functions: Ascending and Descending.***
 - Ability to limit column visibility. *
 
-The figues below point out these functionalities.
+The figures below point out these functionalities.
 
 ![Figure 12](img/workingwith.png){ align=center }
 
@@ -71,12 +71,12 @@ Output for Excel and PDF exports.
 
 
 ## Reducing Columns
-The Ability to Limit or Select visible columns is done by clicking the **column visiblity** button and selecting out of the drop down,options you want to make hidden.
+The Ability to Limit or Select visible columns is done by clicking the **column visibility** button and selecting out of the drop-down, options you want to make hidden.
 See Figure below.
 ![Figure 14](img/column-visibility.png){ align=center }
 
 ## Filtering Reports By Name
-Using the filter/ Search box. You can search for anyting. See figure below.
+Using the filter/ Search box. You can search for anything. See figure below.
 ![Figure 15](img/search.png){ align=center }
 
 ## Filtering Summary Reports By Date
