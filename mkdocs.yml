@@ -14,6 +14,7 @@ nav:
   - Human Resource Management System: hrms.md
   - Mortgage Management System: mms.md
   - Social Security Management System: ssms.md
+  - Payroll: payroll.md
 
 
 markdown_extensions:
