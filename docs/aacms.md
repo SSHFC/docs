@@ -30,8 +30,9 @@ Highlighted in <span style="color:red">red</span>, is the AACMS module.
 In this instance, we will be looking at the AACMS module. This module helps generate various reports as outputs based on member/staff attendance. Clicking <span style="color:red">AACMS</span> in the dashboard or on the sidebar opens a portal that allows users generate various reports as shown in Figure 5.
 ![Figure 5](img/aacms.png){ align=center }
 
-- Button One (1): This button generates a detailed attendance report shown in  Figure 6.
-- Button Two (2): This button generates a summary attendance report shown in Figure 7.
+There are several options / reports that can be generated,using the options provided on the main page. Detailed and Summary reports, filtered by ``dates``, ``departments``.
+
+Also included is an Access Tracking Module. This feature helps track staff movement withing the SSHFC premise.
 
 ![Figure 6](img/detailed.png){ align=left }
 ![Figure 7](img/summary.png){ align=right }
