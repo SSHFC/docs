@@ -23,6 +23,8 @@ markdown_extensions:
 plugins:
     - search
     - mike
+    # - mkpdfs
+    # - with-pdf
     # - pdf-export    # I have commented out pdf builds to make building quicker
 
 extra:

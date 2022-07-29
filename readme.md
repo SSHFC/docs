@@ -18,6 +18,7 @@ However if by some chance(especially on windows), this does not work or you meet
 
 
 ----
+Install the pdf export file  with `pip install mkdocs-pdf-export-plugin`
 
 In the `mkdocs.yml` file.  **pdf-exports** has been commented out to speed up builds when you run `mkdocs serve`.
 Keep in mind, if you wan to build the static file, you un-comment that line and run `mkdocs build`.
