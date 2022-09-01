@@ -104,6 +104,11 @@ The Human Resource Management System (HRMS) is a system designed to assist manag
      - frame of lens
      - surcharge(s)
 
+## Connected Systems
+
+- Attendance and Access Control Management System
+- Electronics Records Management System
+- Payroll
 
 ## Working With Employees’ Information
 
@@ -199,7 +204,12 @@ When adding/editing an employee’s next of kin’s details,information for fiel
 
 
 ## Working With The Human Resource Management System Setup
+
 ## Working With Loans
+### Loan Names
+Clicking on the loan names button to access/view/edit/add/delete details of loan names open a table
+
+![HRMS Loans](img/hrms-loans_001.png){ align=center }
 
 ## Working On Job Vacancies
 

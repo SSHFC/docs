@@ -23,7 +23,7 @@ Upon successful sign-in, an administrative dashboard is displayed as shown in th
 
 ![Admin Dashboard](img/admin_setup.png){ align=center }
 
-A click of the “Setup” menu item displays a site configuration page as shown in the figure below with options of configuring “Institution Detail”, “SMTP and SMS Settings”  and  “Operational Configurations”. 
+A click of the “Setup” menu item displays a site configuration page as shown in the figure below with options of configuring “Institution Detail”, “SMTP and SMS Settings”  and  “Operational Configurations”. The “Institution Detail” tab provides the administrator the opportunity to configure the site names to be used as the SSMIS application is used, site logos and relevant contact information for SSHFC.
 
 *showing institutional details*
 ![Admin Dashboard](img/admin-config-one.png){ align=center }
@@ -45,7 +45,7 @@ The “Operational Configurations” tab provides the administrator the opportun
 
 ![Admin Dashboard](img/admin-user.png){ align=center }
 
-A click of the “User” menu item displays a site configuration page as shown. This pages allows you to add users, create roles and permissions for each user and display a users list..
+A click of the “User” menu item displays a site configuration page as shown. This page allows you to add users, create roles and permissions for each user and display a users list..
 
 ![Admin Dashboard](img/admin-user-menu.png){ align=center }
 
@@ -124,7 +124,7 @@ The sub systems have numerous permissions for which the option of “allow” or
 
 Summary Steps in User Permissions Management
 
-- 1. Create or Select Relevant Role.
-- 2. Ensure the appropriate permissions are assigned to the role for the specific sub system. 
-- 3. Create or Select the user, select manage user roles and assign user to the preferred role.
-- 4. Click Save button after each process is completed.
+-  Create or Select Relevant Role.
+-  Ensure the appropriate permissions are assigned to the role for the specific sub system. 
+-  Create or Select the user, select manage user roles and assign user to the preferred role.
+-  Click Save button after each process is completed.
