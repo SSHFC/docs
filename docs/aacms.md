@@ -1,6 +1,6 @@
 # Introduction
 
-The Attendance and Access Control Management System (AACMS) is a system designed to keep track of all official staff movements.
+The Attendance and Access Control Management System (AACMS) is a system designed to keep track of all official staff movements. 
 
 
 ## Who Benefits From The Attendance And Access Control Management System

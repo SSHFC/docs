@@ -55,3 +55,7 @@ The Staff Loan tab shows all available loans that are available to employees wit
 ## Tax Setup
 
 The Tax tab details all bands with their tax rate,tax value and their current status
+
+![Figure 4](img/payroll_taskSetup_001.png){ align=center }
+
+![Figure 4](img/payroll_taskSetup_002.png){ align=center }
