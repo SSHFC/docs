@@ -23,9 +23,7 @@ markdown_extensions:
 plugins:
     - search
     - mike
-    # - mkpdfs
-    # - with-pdf
-    # - pdf-edxport    # I have commented out pdf builds to make building quicker
+    # - pdf-export    # I have commented out pdf builds to make building quicker
 
 extra:
   version:
