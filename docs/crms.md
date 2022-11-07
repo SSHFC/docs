@@ -13,18 +13,20 @@ The CRMS is the public-facing component of the SSMIS hence all requests, applica
 - Requests for Information
 - Requests to Book Appointment
 - Submissions of Complaints
+- Mortgage Application
 
 ## External Users
 
-This whole process begins when an external user, visits the public-facing website of SSHFC. Click on **Customer Service Portal**. As shown in the image below.
-![CRMS SIgnup](img/1crms.png){ align=center }
+This whole process begins when an external user, visits the public-facing website of SSHFC. As shown in the image below.
+![CRMS SIgnup](img/maincrms.png){ align=center }
+This page gives you access to the SSMIS, MMS and CRMS public facing sections.  Both the Mortage application and CRMS module have a common sign-in interface , as seen in the image above.
 
 
 ### Sign Up
 
 To take advantage of the CRMS the general public will first need to sign up for the platform. 
-This requires a username, email, phone number and password.
-![CRMS SIgnup](img/3crms.png){ align=center }
+This requires an email address, phone niumber as well as other pertinent details.
+![CRMS SIgnup](img/crms_register.png){ align=center }
 
 
 ### Sign In
@@ -34,14 +36,19 @@ To log, into the system, one will need to be authenticated, via a username and p
 - Requests for Information
 - Requests to Book Appointment
 - Submissions of Complaints
+- Initiate a mortgage application
  
- ![CRMS Sign In](img/2crms.png){ align=center }
+ ![CRMS Sign In](img/crms_signin.png){ align=center }
+
+ After you successfully sign-in you are sent to the homepage, from which point you can access all other sections. See below:
+
+ ![CRMS Homepage](img/homepage.png){ align=center }
 ### Request for Information
 
 Under this tab, a user can request information.
 Here, the customer is given the opportunity to submit his question or request for information.
 
-![Request for information](img/4crms.png){ align=center }
+![Request for information](img/crms_info_request.png){ align=center }
 
 On the Tab - Request for information, click on the **Make a Request** button. This action opens up the page you see below:
 
@@ -51,22 +58,23 @@ On the Tab - Request for information, click on the **Make a Request** button. Th
 
 Under this tab, a user can book an appointment.
 A range of dates and times are available for the user to select. However, an approved date will be communicated when the request is officially acknowledged.
-![Book an Appointment](img/5crms.png){ align=center }
+![Book an Appointment](img/crms_appointment.png){ align=center }
 Clicking on the **Request an Appointment** Button opens up a page that allows you to select possible dates and times for an appointment. See below:
 ![Book an Appointment](img/6crms.png){ align=center }
 ### Submit a Complaint
 
 Users of this portal are given the chance to also submit complaints they might have about SSHFC.
-![Submit a Complaint](img/9crms.png){ align=center }
+![Submit a Complaint](img/crms_complaint.png){ align=center }
 Complaints are captured in the text field highlighted.
 
 ![Submit a Complaint](img/7crms.png){ align=center }
 
 ### Track your Submissions
 
-Also on this portal, is the ability to view the outcome of your submissions once they have been worked on.
-This is indicated by the status message on the dashboard.
-![Track your Submissions](img/10crms.png){ align=center }
+Also, is the ability to view the outcome of your submissions once they have been worked on.
+This is indicated by the status message on each module. Once you click on a module: complaints, appointments, information requests, you are able to submit a request as well as view the status of requests that have been already made.
+
+![Track your Submissions](img/crms_dashboard.png){ align=center }
 Highlighted in the image above are:
 
 - Status: Tracks the state of your submission
@@ -109,6 +117,12 @@ Below is the snapshot of External Appointments, Highlighted are the registered c
 ![HelpDesk](img/16crms.png){ align=center }
 Above are highlights showing what fields are available to the help desk personnel. These allow the helpdesk to submit extra details and information to the responsible department.
 Issues worked upon are then redirected to the department assigned to resolve said tasks.
+
+When issues have been pending for a longer time than usual, the person in charge of the help desk has the opiton to re-assign the issue to another department. This is done using the re-assign button. As shown below.
+![HelpDesk](img/re-assign.png){ align=center }
+The screen that shows next, allows you to select from a drop down, the list of departments available.
+![HelpDesk](img/re-assign2.png){ align=center }
+
 
 ### Department
 This role handles the requests that are assigned on a department basis. As such only issues assigned to the department are seen in this portal.
