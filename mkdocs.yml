@@ -25,7 +25,7 @@ plugins:
     - mike
     # - mkpdfs
     # - with-pdf
-    # - pdf-export    # I have commented out pdf builds to make building quicker
+    # - pdf-edxport    # I have commented out pdf builds to make building quicker
 
 extra:
   version:
