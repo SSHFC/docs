@@ -85,6 +85,33 @@ Using the filter/ Search box. You can search for anything. See figure below.
 
 This functionality is a similar process to filtering and attendance report by date. 
 
+## AACMS Upload
+
+This is a functionality that allows a person with permission the ability to upload excel files exported from the attendance capture device into the AACMS module.
+Once granted permission with the module installed, the drop down brings you to the upload functionality.
+
+![Upload1](img/upload1.png){ align=center }
+
+Once you click on the browse button, a dialog box opens up allowing you to select the excel file.
+
+![Upload 2](img/upload2.png){ align=center }
+
+The file is selected and upload done by clicking the upload button. Confirm request to have upload done.
+
+![Upload 3](img/upload3.png){ align=center }
+
+A successful upload is shown below.
+
+![Upload 5](img/upload5.png){ align=center }
+
+A feature as seen in the image below, comes up to prevent the upload of same named document.
+
+![Upload 6](img/upload6.png){ align=center }
+
+If it so happens that an error is commited, a wrong file uploaded, you have the ability to empty the database to provide a clean slate.
+Use the 'Clear Attendance Database Option' as shown below
+
+![Upload 4](img/upload4.png){ align=center }
 ## AACMS Deduction
 
 This functionality allows one with persmission to initiate the calculation of absentism of staff and place a monetory value to it. This value is then posted to payroll for deduction during the period for payroll run.
