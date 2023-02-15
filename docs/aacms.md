@@ -29,7 +29,7 @@ Highlighted in <span style="color:red">red</span>, is the AACMS module.
 ![Figure 4](img/dashboard.png){ align=center }
 
 In this instance, we will be looking at the AACMS module. This module helps generate various reports as outputs based on member/staff attendance. Clicking <span style="color:red">AACMS</span> in the dashboard or on the sidebar opens a portal that allows users generate various reports as shown in Figure 5.
-![Figure 5](img/aacms.png){ align=center }
+![Figure 5](img/main_aacms.png){ align=center }
 
 There are several options / reports that can be generated,using the options provided on the main page. Detailed and Summary reports, filtered by ``dates``, ``departments``.
 
@@ -42,14 +42,14 @@ Also included is an Access Tracking Module. This feature helps track staff movem
 
 The detailed report can be filtered by dates. The filter generates information within a date range.
 See Figure 8.
-![Figure 8](img/date-detailed.png){ align=center }
+![Figure 8](img/main2.png){ align=center }
 
 Below is a sample, generated between the date range **1st to 27th of November 2021**
 ![Figure 9](img/detailed-result.png){ align=center }
 
 ## Filtering Detailed Reports By Department
 A detailed report can also be filtered by department as shown in Figure 10 and 11. A list of departments are generated in a dropdown to make selection easier.
-![Figure 10](img/detailed-branch.png){ align=left }
+![Figure 10](img/main3.png){ align=left }
 ![Figure 11](img/detailed-branch-result.png){ align=right }
 ## Working With Reports
 
@@ -84,6 +84,10 @@ Using the filter/ Search box. You can search for anything. See figure below.
 ## Filtering Summary Reports By Date
 
 This functionality is a similar process to filtering and attendance report by date. 
+
+## Dates on Report
+Reports now have the dates of the generated files on the printed document.
+![Figure ](img/main4.png){ align=center }
 
 ## AACMS Upload
 
