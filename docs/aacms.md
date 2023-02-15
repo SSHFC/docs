@@ -20,6 +20,7 @@ The Attendance and Access Control Management System (AACMS) is a system designed
 - Summary Access Control Report
 - Detail Attendance Report
 - Detail Access Control Report
+- Individual Deduction Calculation
 
 ## AACMS Module
 
@@ -84,3 +85,52 @@ Using the filter/ Search box. You can search for anything. See figure below.
 
 This functionality is a similar process to filtering and attendance report by date. 
 
+## AACMS Upload
+
+This is a functionality that allows a person with permission the ability to upload excel files exported from the attendance capture device into the AACMS module.
+Once granted permission with the module installed, the drop down brings you to the upload functionality.
+
+![Upload1](img/upload1.png){ align=center }
+
+Once you click on the browse button, a dialog box opens up allowing you to select the excel file.
+
+![Upload 2](img/upload2.png){ align=center }
+
+The file is selected and upload done by clicking the upload button. Confirm request to have upload done.
+
+![Upload 3](img/upload3.png){ align=center }
+
+A successful upload is shown below.
+
+![Upload 5](img/upload5.png){ align=center }
+
+A feature as seen in the image below, comes up to prevent the upload of same named document.
+
+![Upload 6](img/upload6.png){ align=center }
+
+If it so happens that an error is commited, a wrong file uploaded, you have the ability to empty the database to provide a clean slate.
+Use the 'Clear Attendance Database Option' as shown below
+
+![Upload 4](img/upload4.png){ align=center }
+## AACMS Deduction
+
+This functionality allows one with persmission to initiate the calculation of absentism of staff and place a monetory value to it. This value is then posted to payroll for deduction during the period for payroll run.
+
+![Figure 16](img/1deductions.png){ align=center }
+
+The drop down, under the AACMS module: ** AACMS Deductions** opens up a page that displays a daterange selector, allowing one with permission to select the range of dates for which deduction calculations are to be done. Next is to click ** Generate**.
+Once this is done, a list is generated that has the list of staff and number of deductions calculated. The view deductions button becomes visible. 
+
+![Figure 16](img/2deductions.png){ align=center }
+Clicking on this button, cleans up the table and makes the deductions ready for posting to the individual deductions table in payroll.
+
+![Figure 16](img/3deductions.png){ align=center }
+
+On this page, the ** Post Deductions** and  ** Revert Deductions** become visible. Clicking on the Post deductions button completes the process. The revert Deductions button, reverts the process to the beginning.
+
+![Figure 16](img/4deductions.png){ align=center }
+
+If there are existing deductions in the individual deductions table ,the process will quit with an error. This will mean, the payroll has not been run.
+After each run, the deductions table is cleared.
+
+![Figure 16](img/5deductions.png){ align=center }
